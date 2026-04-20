@@ -1,2 +1,2 @@
 # test1
-this is feature 1
+Switched to a new branch 'test2'
